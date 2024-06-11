@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-diegofesh/README.md
 - 👋 Hi, I’m @diegofesh
 - 👀 I’m interested in computers, programming, AI, languages, science, soccer, music, etc.
 - 🌱 I’m currently working on software developer.
